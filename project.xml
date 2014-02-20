@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project> 
+    <pomVersion>3</pomVersion>
+    <currentVersion>1.0</currentVersion>
+    <artifactId>sudoku</artifactId>
+    <name>sudoku</name>
+    <organization />
+    <shortDescription>sudoku solver</shortDescription>
+    <repository />
+    <dependencies>
+    </dependencies>
+    <build>
+        <sourceDirectory>src/main/java</sourceDirectory>
+        <unitTestSourceDirectory>src/test/java</unitTestSourceDirectory>
+        <unitTest>
+            <includes>
+                <include>**/*Test.java</include>
+            </includes>
+        </unitTest>
+    </build>
+</project>
+
