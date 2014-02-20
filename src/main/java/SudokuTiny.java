@@ -1,7 +1,3 @@
-/*
- * Copyright � Impaq 2006. All rights reserved.
- */
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
