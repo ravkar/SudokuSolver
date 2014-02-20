@@ -1,6 +1,3 @@
-/*
- * Copyright © Impaq 2005. All rights reserved.
- */
 
 import java.util.ArrayList;
 import java.util.Arrays;
